@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CPU-Sage</string>
+    <string name="cpu_tab">CPU</string>
+    <string name="device_tab">Device</string>
+    <string name="memory_tab">Memory</string>
+    <string name="system_tab">System</string>
+    <string name="battery_tab">Battery</string>
+</resources>
